@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: avenir;
+  font-size: 14pt;
+  line-height: 180%;
+  color:white;
+}
+
+
+.header {
+  height: 60px;
+  margin-bottom: 60px;
+
+}
+
+
+.video {
+height: 413px;
+}
+
+.text {
+max-width: 490px;
+margin: auto;
+}
+
+p {
+
+}
+
+
+#gif {
+
+  max-width: 490px;
+}
+
+footer {
+text-align: center;
+margin: auto;
+padding-top: 60px;
+
+}
+
+
+.social-links {
+font-size: 30pt;
+}
+
+i {
+  padding: 10px;
+}
